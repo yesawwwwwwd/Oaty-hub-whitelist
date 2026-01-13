@@ -1,1 +1,5 @@
-AllowedUsers = {"april22471","ThriIl3Rz","defnotlilabe"}
+return {
+    ["april22471"] = true,
+    ["ThriIl3Rz"] = true,
+    ["defnotlilabe"] = true,  
+}
